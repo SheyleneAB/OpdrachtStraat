@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\angel\\OpdrachtStraat\\UI\\UI.csproj",
-      "projectName": "UI",
-      "projectPath": "C:\\Users\\angel\\OpdrachtStraat\\UI\\UI.csproj",
+      "projectUniqueName": "C:\\Users\\angel\\OpdrachtStraat\\UI\\AdressUI.csproj",
+      "projectName": "AdressUI",
+      "projectPath": "C:\\Users\\angel\\OpdrachtStraat\\UI\\AdressUI.csproj",
       "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\angel\\OpdrachtStraat\\UI\\obj\\",
       "projectStyle": "PackageReference",

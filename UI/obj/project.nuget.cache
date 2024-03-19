@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wH6gqLR4rZ7nk6IuyRYbZNoUrOkPxWtiLgd52LZIdMyp1yEhUmKIoceyae9tAX721gMoScy+hqiuejic6bqB6g==",
+  "dgSpecHash": "z0UZqVbv0m40WxXEzEwifyWGsFOlbSNGiT80Th5r63PpIwRLlYgM7WuDaydTHpX4u/71JJ2Q98Z4Jf6lelmbUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\angel\\OpdrachtStraat\\UI\\UI.csproj",
+  "projectFilePath": "C:\\Users\\angel\\OpdrachtStraat\\UI\\AdressUI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\angel\\OpdrachtStraat\\DataLaag\\DataLaag.csproj",
-      "projectName": "DataLaag",
-      "projectPath": "C:\\Users\\angel\\OpdrachtStraat\\DataLaag\\DataLaag.csproj",
+      "projectUniqueName": "C:\\Users\\angel\\OpdrachtStraat\\DataLaag\\AdressDL.csproj",
+      "projectName": "AdressDL",
+      "projectPath": "C:\\Users\\angel\\OpdrachtStraat\\DataLaag\\AdressDL.csproj",
       "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\angel\\OpdrachtStraat\\DataLaag\\obj\\",
       "projectStyle": "PackageReference",

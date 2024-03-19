@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\angel\\OpdrachtStraat\\Adressen\\Domein.csproj",
-      "projectName": "Domein",
-      "projectPath": "C:\\Users\\angel\\OpdrachtStraat\\Adressen\\Domein.csproj",
+      "projectUniqueName": "C:\\Users\\angel\\OpdrachtStraat\\Adressen\\AdressBl.csproj",
+      "projectName": "AdressBl",
+      "projectPath": "C:\\Users\\angel\\OpdrachtStraat\\Adressen\\AdressBl.csproj",
       "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\angel\\OpdrachtStraat\\Adressen\\obj\\",
       "projectStyle": "PackageReference",
