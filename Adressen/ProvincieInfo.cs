@@ -12,5 +12,10 @@ namespace Adressen
         public int ProvicieId { get; set; }
         public String Taal { get; set; }
         public string ProvicieNaam { get; set; }
+
+        public ProvincieInfo(string provicieNaam)
+        {
+            ProvicieNaam = provicieNaam;
+        }
     }
 }
