@@ -3,21 +3,20 @@
 
 public class Straatnaam
 {
-	public Straatnaam()
-	{
+	
 
-		private int straatnaamId
-		private string straatnaam
+		private int straatnaamId;
+		private string straatnaam;
 
 		public int StraatnaamId 
 		{
 			get {return straatnaamId;}
-			set;
+		set { straatnaamId = value;}
 		}
-		public string Straatnaam
+		public string _Straatnaam
 		{
 			get { return straatnaam;}
-			set; 
+			set { straatnaam = value;}
 		}
-	}
+	
 }

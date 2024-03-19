@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="managers\" />
+    <Folder Include="exeptions\" />
+    <Folder Include="Interfaces\" />
+  </ItemGroup>
+
 </Project>
