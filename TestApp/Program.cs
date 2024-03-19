@@ -1,4 +1,4 @@
-﻿namespace Adressen
+﻿namespace TestApp
 {
     internal class Program
     {
