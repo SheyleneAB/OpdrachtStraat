@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Oxfam\\.nuget\\packages\\": {}
+    "C:\\Users\\angel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oxfam\\OpdrachtStraat\\Adressen\\Adressen.csproj",
-      "projectName": "Adressen",
-      "projectPath": "C:\\Users\\Oxfam\\OpdrachtStraat\\Adressen\\Adressen.csproj",
-      "packagesPath": "C:\\Users\\Oxfam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oxfam\\OpdrachtStraat\\Adressen\\obj\\",
+      "projectUniqueName": "C:\\Users\\angel\\OpdrachtStraat\\Adressen\\Domein.csproj",
+      "projectName": "Domein",
+      "projectPath": "C:\\Users\\angel\\OpdrachtStraat\\Adressen\\Domein.csproj",
+      "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\angel\\OpdrachtStraat\\Adressen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Oxfam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,11 +40,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

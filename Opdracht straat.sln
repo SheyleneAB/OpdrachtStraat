@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adressen", "Adressen\Adressen.csproj", "{17A0424D-0F8E-4DAD-A722-C6967533D494}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domein", "Adressen\Domein.csproj", "{17A0424D-0F8E-4DAD-A722-C6967533D494}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
