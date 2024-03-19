@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Adressen
-build_property.ProjectDir = C:\Users\angel\OpdrachtStraat\Adressen\
+build_property.ProjectDir = C:\Users\Oxfam\OpdrachtStraat\Adressen\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

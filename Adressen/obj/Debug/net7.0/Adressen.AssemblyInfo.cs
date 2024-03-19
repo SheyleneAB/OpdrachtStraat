@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Adressen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0b9badb5c6325df663428e41b5b45f85d9aba93")]
 [assembly: System.Reflection.AssemblyProductAttribute("Adressen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Adressen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
